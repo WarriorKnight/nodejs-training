@@ -80,19 +80,9 @@ router.get("/visit", async function (req, res) {
     res.json(ipData);
 });
 
-router.get("/visits", (req, res) => {
+router.get("/visits", async function (req, res) {
   console.log("Sending visits data");
-  res.json(visits);
-});
 
-app.use("/api", router);
-
-const staticPath = path.join(__dirname, "./dist/");
-app.use(express.static(staticPath));
-
-
-app.get("/",  async function (req, res) {
-  console.log("Sending local file");
   console.log("saving visitor data");
   const ip = req.ip;//'81.90.168.61';
   const ipData = await ipHelper.getGeoLocation(ip);
@@ -106,6 +96,17 @@ app.get("/",  async function (req, res) {
   saveVisits();
 
 
+  res.json(visits);
+});
+
+app.use("/api", router);
+
+const staticPath = path.join(__dirname, "./dist/");
+app.use(express.static(staticPath));
+
+
+app.get("/",  async function (req, res) {
+  console.log("Sending local file");
   res.sendFile(path.join(staticPath, "index.html"));
 });
 
