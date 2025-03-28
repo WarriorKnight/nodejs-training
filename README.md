@@ -11,4 +11,5 @@ A web application that tracks and visualizes visitor locations on a 3D globe.
 - Used **Express.js** to log visitor IP addresses and fetch geolocation data, storing it in a JSON file.
 - Dockerized using **Docker**.
 - Frontend built with **React** using `react-globe.gl` to display the locations.
+- **Note:** This project was primarily an experiment to try out various skills learned from previous projects—using Docker, interacting with the filesystem, and making API calls. As such, aspects like using a JSON file as a database or handling multiple entries per IP were not the main focus.
 
