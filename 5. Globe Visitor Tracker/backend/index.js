@@ -3,8 +3,9 @@ const express = require("express");
 const ipHelper = require("./ipHelper.js");
 const fs = require("fs");
 const path = require("path");
+
 const app = express();
-const port = 3000;
+const PORT = process.env.PORT || 3000;
 const dataFilePath = path.join(__dirname, "visits.json");
 let visits = [];
 
@@ -18,37 +19,45 @@ if (fs.existsSync(dataFilePath)) {
 }
 
 function saveVisits() {
-    fs.writeFileSync(dataFilePath, JSON.stringify(visits, null, 2));
+    try {
+        fs.writeFileSync(dataFilePath, JSON.stringify(visits, null, 2));
+    } catch (err) {
+        console.error("Error saving visits file:", err);
+    }
 }
 
 const router = express.Router();
 
-router.get("/visits", async function (req, res) {
-  const ip = req.ip;
-  const ipData = await ipHelper.getGeoLocation(ip);
-  
-  const visit = {
-      lat: ipData.latitude,
-      lng: ipData.longitude,
-      visitTime: new Date().toISOString()
-  };
-  visits.push(visit);
-  saveVisits();
+router.get("/visits", async (req, res) => {
+    try {
+        const ip = req.ip;
+        const ipData = await ipHelper.getGeoLocation(ip);
+        const visit = {
+            lat: ipData.latitude,
+            lng: ipData.longitude,
+            visitTime: new Date().toISOString()
+        };
 
+        visits.push(visit);
+        saveVisits();
 
-  res.json(visits);
+        res.json(visits);
+    } catch (error) {
+        console.error("Error processing visit:", error);
+        res.status(500).json({ error: "Internal Server Error" });
+    }
 });
 
 app.use("/api", router);
 
-const staticPath = path.join(__dirname, "./dist/");
+const staticPath = path.join(__dirname, "dist");
 app.use(express.static(staticPath));
 
-app.get("/",  async function (req, res) {
-  console.log("Sending local file");
-  res.sendFile(path.join(staticPath, "index.html"));
+app.get("*", (req, res) => {
+    console.log("Serving index.html");
+    res.sendFile(path.join(staticPath, "index.html"));
 });
 
-app.listen(process.env.PORT || port, () => {
-  console.log(`Example app listening on port ${port}`);
+app.listen(PORT, () => {
+    console.log(`Server listening on port ${PORT}`);
 });
