@@ -1,0 +1,817 @@
+[
+  {
+    "text": "Nemůžete ovládat, co se vám děje, ale můžete ovládat, jak na to reagujete.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Kontrola"]
+  },
+  {
+    "text": "Nehledejte štěstí venku, ale uvnitř sebe.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Štěstí"]
+  },
+  {
+    "text": "Nejlepší pomsta je nebýt jako váš nepřítel.",
+    "author": "Marcus Aurelius",
+    "categories": ["Stoicismus", "Ctnost"]
+  },
+  {
+    "text": "Život není ani dobrý, ani špatný, ale jen místo pro dobro a zlo.",
+    "author": "Marcus Aurelius",
+    "categories": ["Stoicismus", "Život"]
+  },
+  {
+    "text": "Dělejte svou práci s celým svým srdcem a duší, bez ohledu na výsledek.",
+    "author": "Marcus Aurelius",
+    "categories": ["Stoicismus", "Akce"]
+  },
+  {
+    "text": "Přijměte to, co nemůžete změnit.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Perspektiva"]
+  },
+  {
+    "text": "Měřte svůj pokrok podle toho, co jste ochotni se vzdát.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Změna"]
+  },
+  {
+    "text": "Není důležité, co si o vás myslí ostatní, ale co si myslíte vy sami.",
+    "author": "Seneca",
+    "categories": ["Stoicismus", "Vnitřní klid"]
+  },
+  {
+    "text": "Štěstí vašeho života závisí na kvalitě vašich myšlenek.",
+    "author": "Marcus Aurelius",
+    "categories": ["Stoicismus", "Štěstí"]
+  },
+  {
+    "text": "Žijte každý den tak, jako by byl váš poslední.",
+    "author": "Marcus Aurelius",
+    "categories": ["Stoicismus", "Život"]
+  },
+  {
+    "text": "Není nic dobrého ani špatného, to až myšlení to takovým činí.",
+    "author": "William Shakespeare",
+    "categories": ["Stoicismus", "Perspektiva"]
+  },
+  {
+    "text": "Největší překážkou života je očekávání, které závisí na zítřku a ztrácí dnešek.",
+    "author": "Seneca",
+    "categories": ["Stoicismus", "Život"]
+  },
+  {
+    "text": "Moudrý člověk nikdy nemění svůj názor; hlupák ano.",
+    "author": "Seneca",
+    "categories": ["Stoicismus", "Moudrost"]
+  },
+  {
+    "text": "Je lepší být šťastný než mít pravdu.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Perspektiva"]
+  },
+  {
+    "text": "Když se něco pokazí, nehledejte viníka, ale řešení.",
+    "author": "Neznámý",
+    "categories": ["Akce", "Odolnost"]
+  },
+  {
+    "text": "Klíčem není priorizovat to, co je na vašem rozvrhu, ale rozvrhnout si své priority.",
+    "author": "Stephen Covey",
+    "categories": ["Akce", "Život"]
+  },
+  {
+    "text": "Buďte trpěliví. Všechno přichází v pravý čas.",
+    "author": "Neznámý",
+    "categories": ["Život", "Vnitřní klid"]
+  },
+  {
+    "text": "Jediný způsob, jak dělat skvělou práci, je milovat to, co děláte.",
+    "author": "Steve Jobs",
+    "categories": ["Akce", "Život"]
+  },
+  {
+    "text": "Budoucnost patří těm, kteří věří v krásu svých snů.",
+    "author": "Eleanor Roosevelt",
+    "categories": ["Život", "Štěstí"]
+  },
+  {
+    "text": "Úspěch není nikdy konečný, neúspěch nikdy osudný. Důležitá je odvaha pokračovat.",
+    "author": "Winston Churchill",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Světlo svítí nejjasněji v nejtemnější noci.",
+    "author": "Neznámý",
+    "categories": ["Odolnost", "Naděje"]
+  },
+  {
+    "text": "Štěstí není něco hotového. Pochází z vašich vlastních činů.",
+    "author": "Dalajláma",
+    "categories": ["Štěstí", "Akce"]
+  },
+  {
+    "text": "Nikdy se nevzdávejte něčeho, o čem si myslíte, že nemůžete prožít den bez toho.",
+    "author": "Neznámý",
+    "categories": ["Život", "Odolnost"]
+  },
+  {
+    "text": "Moudrost je vědět, kolik toho nevíte.",
+    "author": "Sokrates",
+    "categories": ["Moudrost", "Perspektiva"]
+  },
+  {
+    "text": "Změna je jediná konstanta v životě.",
+    "author": "Herakleitos",
+    "categories": ["Změna", "Život"]
+  },
+  {
+    "text": "Nejlepší způsob, jak předvídat budoucnost, je ji vytvořit.",
+    "author": "Peter Drucker",
+    "categories": ["Akce", "Budoucnost"]
+  },
+  {
+    "text": "Láska je vše, co potřebujete.",
+    "author": "The Beatles",
+    "categories": ["Štěstí", "Život"]
+  },
+  {
+    "text": "Jen dvě věci jsou nekonečné: vesmír a lidská hloupost; a o tom vesmíru si nejsem jistý.",
+    "author": "Albert Einstein",
+    "categories": ["Moudrost", "Perspektiva"]
+  },
+  {
+    "text": "Není důležité, kolikrát spadnete, ale kolikrát vstanete.",
+    "author": "Vince Lombardi",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Žijte tak, jako byste měli zítra zemřít. Učte se tak, jako byste měli žít navždy.",
+    "author": "Mahátma Gándhí",
+    "categories": ["Život", "Moudrost"]
+  },
+  {
+    "text": "Když se jedny dveře štěstí zavřou, otevřou se jiné; ale často se tak dlouho díváme na zavřené dveře, že nevidíme ty, které se pro nás otevřely.",
+    "author": "Helen Keller",
+    "categories": ["Štěstí", "Perspektiva"]
+  },
+  {
+    "text": "Myslete na všechnu krásu, která kolem vás stále zůstává, a buďte šťastní.",
+    "author": "Anne Frank",
+    "categories": ["Štěstí", "Perspektiva"]
+  },
+  {
+    "text": "Odvaha není absence strachu, ale triumf nad ním.",
+    "author": "Nelson Mandela",
+    "categories": ["Odolnost", "Ctnost"]
+  },
+  {
+    "text": "Nejlepší čas zasadit strom byl před 20 lety. Druhý nejlepší čas je teď.",
+    "author": "Čínské přísloví",
+    "categories": ["Akce", "Život"]
+  },
+  {
+    "text": "Dělejte to, co cítíte ve svém srdci, že je správné – budete kritizováni tak jako tak.",
+    "author": "Eleanor Roosevelt",
+    "categories": ["Akce", "Vnitřní klid"]
+  },
+  {
+    "text": "Cílem života je život sám.",
+    "author": "Johann Wolfgang von Goethe",
+    "categories": ["Život", "Smysl"]
+  },
+  {
+    "text": "Kdo chce hýbat světem, musí nejprve pohnout sám sebou.",
+    "author": "Sokrates",
+    "categories": ["Změna", "Akce"]
+  },
+  {
+    "text": "Největší sláva nespočívá v tom, nikdy nespadnout, ale v tom, vždycky se zvednout.",
+    "author": "Nelson Mandela",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Krása začíná ve chvíli, kdy se rozhodnete být sami sebou.",
+    "author": "Coco Chanel",
+    "categories": ["Vnitřní klid", "Sebepřijetí"]
+  },
+  {
+    "text": "Učte se z včerejška, žijte pro dnešek, doufejte v zítřek.",
+    "author": "Albert Einstein",
+    "categories": ["Život", "Čas"]
+  },
+  {
+    "text": "Štěstí není cílem, je to způsob života.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Život"]
+  },
+  {
+    "text": "Nikdy nepodceňujte sílu snů a vliv lidského ducha. Jsme stejní v této představě: potenciál pro velikost existuje v každém z nás.",
+    "author": "Neznámý",
+    "categories": ["Život", "Potenciál"]
+  },
+  {
+    "text": "Nejlepší věci v životě nejsou věci.",
+    "author": "Neznámý",
+    "categories": ["Život", "Hodnoty"]
+  },
+  {
+    "text": "Buďte změnou, kterou chcete vidět ve světě.",
+    "author": "Mahátma Gándhí",
+    "categories": ["Změna", "Akce"]
+  },
+  {
+    "text": "Když jdete peklem, jděte dál.",
+    "author": "Winston Churchill",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Život je příliš krátký na to, abychom byli nešťastní.",
+    "author": "Neznámý",
+    "categories": ["Život", "Štěstí"]
+  },
+  {
+    "text": "Věřte, že můžete, a jste v polovině cesty.",
+    "author": "Theodore Roosevelt",
+    "categories": ["Akce", "Víra"]
+  },
+  {
+    "text": "Nehledejte chyby, hledejte nápravu.",
+    "author": "Henry Ford",
+    "categories": ["Akce", "Změna"]
+  },
+  {
+    "text": "Každý den nemusí být dobrý, ale v každém dni je něco dobrého.",
+    "author": "Neznámý",
+    "categories": ["Perspektiva", "Život"]
+  },
+  {
+    "text": "Nečekejte na ideální okamžik, vezměte okamžik a udělejte ho ideálním.",
+    "author": "Neznámý",
+    "categories": ["Akce", "Život"]
+  },
+  {
+    "text": "Naše největší slabost spočívá ve vzdávání se. Nejistější cestou k úspěchu je vždy zkusit to ještě jednou.",
+    "author": "Thomas A. Edison",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Život je jako jízda na kole. Abyste udrželi rovnováhu, musíte se pohybovat.",
+    "author": "Albert Einstein",
+    "categories": ["Život", "Rovnováha"]
+  },
+  {
+    "text": "Nejdůležitější je nikdy nepřestat se ptát.",
+    "author": "Albert Einstein",
+    "categories": ["Moudrost", "Zvědavost"]
+  },
+  {
+    "text": "Mějte odvahu následovat své srdce a intuici. Nějakým způsobem už vědí, čím se skutečně chcete stát.",
+    "author": "Steve Jobs",
+    "categories": ["Akce", "Vnitřní klid"]
+  },
+  {
+    "text": "Když se zdá, že všechno jde proti vám, pamatujte, že letadlo vzlétá proti větru, ne s ním.",
+    "author": "Henry Ford",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Štěstí není něco, co odkládáte na budoucnost; je to něco, co si navrhujete pro přítomnost.",
+    "author": "Jim Rohn",
+    "categories": ["Štěstí", "Přítomnost"]
+  },
+  {
+    "text": "Nezáleží na tom, odkud pocházíte. Záleží na tom, kam jdete.",
+    "author": "Ella Fitzgerald",
+    "categories": ["Život", "Směr"]
+  },
+  {
+    "text": "Dělejte to, co milujete, a nikdy nebudete muset pracovat ani den ve svém životě.",
+    "author": "Konfucius",
+    "categories": ["Akce", "Život"]
+  },
+  {
+    "text": "Nikdy nelitujte toho, co jste udělali, ale litujte toho, co jste neudělali.",
+    "author": "Neznámý",
+    "categories": ["Akce", "Život"]
+  },
+  {
+    "text": "Jediná hranice našich zítřků jsou naše dnešní pochybnosti.",
+    "author": "Franklin D. Roosevelt",
+    "categories": ["Víra", "Budoucnost"]
+  },
+  {
+    "text": "Život je 10 % toho, co se vám stane, a 90 % toho, jak na to reagujete.",
+    "author": "Charles R. Swindoll",
+    "categories": ["Život", "Reakce"]
+  },
+  {
+    "text": "Nejlepší pomstou je obrovský úspěch.",
+    "author": "Frank Sinatra",
+    "categories": ["Akce", "Úspěch"]
+  },
+  {
+    "text": "Když se vám zdá, že je všechno snadné, pravděpodobně jdete z kopce.",
+    "author": "Neznámý",
+    "categories": ["Výzvy", "Růst"]
+  },
+  {
+    "text": "Myslete velké a neposlouchejte lidi, kteří vám říkají, že to nemůžete udělat. Život je příliš krátký na to, abyste mysleli malicherně.",
+    "author": "Tim Ferriss",
+    "categories": ["Život", "Motivace"]
+  },
+  {
+    "text": "Všechno, co slyšíme, je názor, ne fakt. Všechno, co vidíme, je perspektiva, ne pravda.",
+    "author": "Marcus Aurelius",
+    "categories": ["Stoicismus", "Perspektiva"]
+  },
+  {
+    "text": "Neztrácejte čas diskusemi o tom, jaký by měl být dobrý člověk. Buďte jím.",
+    "author": "Marcus Aurelius",
+    "categories": ["Stoicismus", "Ctnost"]
+  },
+  {
+    "text": "Nejde o to, co se vám stane, ale o to, jak na to reagujete.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Reakce"]
+  },
+  {
+    "text": "Svoboda je jediná hodnota. Všechno ostatní je jen prostředek.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Hodnoty"]
+  },
+  {
+    "text": "Nežádáme, aby se věci děly tak, jak chceme, ale chceme, aby se věci děly tak, jak se dějí.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Perspektiva"]
+  },
+  {
+    "text": "Život je velmi krátký a úzkostlivý pro ty, kteří zapomínají na minulost, zanedbávají přítomnost a bojí se budoucnosti.",
+    "author": "Seneca",
+    "categories": ["Stoicismus", "Život"]
+  },
+  {
+    "text": "Je to zbabělost, a ne ctnost, snášet život jen proto, že se bojíte zemřít.",
+    "author": "Seneca",
+    "categories": ["Stoicismus", "Ctnost"]
+  },
+  {
+    "text": "Štěstí je stav bytí, ne cíl k dosažení.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Život"]
+  },
+  {
+    "text": "V jednoduchosti je krása.",
+    "author": "Neznámý",
+    "categories": ["Život", "Perspektiva"]
+  },
+  {
+    "text": "Když se soustředíte na dobro, dobro se zvětšuje.",
+    "author": "Neznámý",
+    "categories": ["Perspektiva", "Štěstí"]
+  },
+  {
+    "text": "Méně je více.",
+    "author": "Ludwig Mies van der Rohe",
+    "categories": ["Život", "Filozofie"]
+  },
+  {
+    "text": "Skutečné bohatství spočívá v tom, co si nemůžete koupit penězi.",
+    "author": "Neznámý",
+    "categories": ["Život", "Hodnoty"]
+  },
+  {
+    "text": "Klid mysli je nejvyšší dobro.",
+    "author": "Marcus Tullius Cicero",
+    "categories": ["Stoicismus", "Vnitřní klid"]
+  },
+  {
+    "text": "Nikdy neříkejte o ničem, že jste to ztratili, pouze že jste to vrátili.",
+    "author": "Epiktétos",
+    "categories": ["Stoicismus", "Perspektiva"]
+  },
+  {
+    "text": "Je lepší dobýt svůj vlastní smutek než dobýt město.",
+    "author": "Seneca",
+    "categories": ["Stoicismus", "Vnitřní klid"]
+  },
+  {
+    "text": "Nezáleží na tom, jak pomalu jdete, pokud se nezastavíte.",
+    "author": "Konfucius",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Jediný způsob, jak se zbavit pokušení, je podlehnout mu.",
+    "author": "Oscar Wilde",
+    "categories": ["Život", "Humor"]
+  },
+  {
+    "text": "Život je odvaha žít, nebo dobrodružství nic nedělat.",
+    "author": "Helen Keller",
+    "categories": ["Život", "Odolnost"]
+  },
+  {
+    "text": "Buďte k sobě laskaví.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Vnitřní klid"]
+  },
+  {
+    "text": "Všechno má svou krásu, ale ne každý ji vidí.",
+    "author": "Konfucius",
+    "categories": ["Perspektiva", "Život"]
+  },
+  {
+    "text": "Pravá moudrost spočívá v tom, že víte, že nic nevíte.",
+    "author": "Sokrates",
+    "categories": ["Moudrost", "Perspektiva"]
+  },
+  {
+    "text": "Největší riziko je neriskovat vůbec.",
+    "author": "Neznámý",
+    "categories": ["Akce", "Život"]
+  },
+  {
+    "text": "Život je dar.",
+    "author": "Neznámý",
+    "categories": ["Život", "Vděčnost"]
+  },
+  {
+    "text": "Každý okamžik je nový začátek.",
+    "author": "T.S. Eliot",
+    "categories": ["Život", "Změna"]
+  },
+  {
+    "text": "Nikdy není pozdě být tím, kým jste mohli být.",
+    "author": "George Eliot",
+    "categories": ["Život", "Potenciál"]
+  },
+  {
+    "text": "Věřte svým instinktům.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Akce"]
+  },
+  {
+    "text": "Jediná stálá věc je změna.",
+    "author": "Herakleitos",
+    "categories": ["Změna", "Život"]
+  },
+  {
+    "text": "Buďte vděční za to, co máte.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Vděčnost"]
+  },
+  {
+    "text": "Život je cesta, ne cíl.",
+    "author": "Ralph Waldo Emerson",
+    "categories": ["Život", "Cesta"]
+  },
+  {
+    "text": "Když se podíváte na svět s láskou, uvidíte krásu.",
+    "author": "Neznámý",
+    "categories": ["Perspektiva", "Život"]
+  },
+  {
+    "text": "Síla neleží ve svalech, ale v vůli.",
+    "author": "Neznámý",
+    "categories": ["Odolnost", "Vůle"]
+  },
+  {
+    "text": "Usmívejte se, je to zdarma terapie.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Vnitřní klid"]
+  },
+  {
+    "text": "Všechno, co potřebujete, je uvnitř vás.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Potenciál"]
+  },
+  {
+    "text": "Buďte sami sebou, všichni ostatní už jsou obsazeni.",
+    "author": "Oscar Wilde",
+    "categories": ["Vnitřní klid", "Autenticita"]
+  },
+  {
+    "text": "Nechte minulost být, soustřeďte se na přítomnost.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Přítomnost"]
+  },
+  {
+    "text": "Myslete pozitivně.",
+    "author": "Neznámý",
+    "categories": ["Perspektiva", "Štěstí"]
+  },
+  {
+    "text": "Láska vítězí nad vším.",
+    "author": "Vergilius",
+    "categories": ["Štěstí", "Síla"]
+  },
+  {
+    "text": "Buďte stateční.",
+    "author": "Neznámý",
+    "categories": ["Odolnost", "Akce"]
+  },
+  {
+    "text": "Žijte jednoduše.",
+    "author": "Neznámý",
+    "categories": ["Život", "Vnitřní klid"]
+  },
+  {
+    "text": "Buďte laskaví k ostatním.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Vztahy"]
+  },
+  {
+    "text": "Učte se každý den.",
+    "author": "Neznámý",
+    "categories": ["Moudrost", "Růst"]
+  },
+  {
+    "text": "Naslouchejte více, mluvte méně.",
+    "author": "Neznámý",
+    "categories": ["Moudrost", "Komunikace"]
+  },
+  {
+    "text": "Buďte upřímní k sobě i k ostatním.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Vnitřní klid"]
+  },
+  {
+    "text": "Respektujte ostatní.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Vztahy"]
+  },
+  {
+    "text": "Odpouštějte si i ostatním.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Vztahy"]
+  },
+  {
+    "text": "Pomáhejte druhým.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Společenství"]
+  },
+  {
+    "text": "Chovejte se k ostatním tak, jak chcete, aby se oni chovali k vám.",
+    "author": "Zlaté pravidlo",
+    "categories": ["Ctnost", "Etika"]
+  },
+  {
+    "text": "Buďte vděční za maličkosti.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Vděčnost"]
+  },
+  {
+    "text": "Hledejte řešení, ne výmluvy.",
+    "author": "Neznámý",
+    "categories": ["Akce", "Odolnost"]
+  },
+  {
+    "text": "Nebojte se selhání, učte se z něj.",
+    "author": "Neznámý",
+    "categories": ["Odolnost", "Moudrost"]
+  },
+  {
+    "text": "Věřte ve své schopnosti.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Sebevědomí"]
+  },
+  {
+    "text": "Dělejte to, co je správné, ne to, co je snadné.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Etika"]
+  },
+  {
+    "text": "Buďte trpěliví se sebou i s ostatními.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Ctnost"]
+  },
+  {
+    "text": "Pečujte o své tělo i mysl.",
+    "author": "Neznámý",
+    "categories": ["Život", "Vnitřní klid"]
+  },
+  {
+    "text": "Trávte čas s lidmi, které máte rádi.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Vztahy"]
+  },
+  {
+    "text": "Objevujte nové věci.",
+    "author": "Neznámý",
+    "categories": ["Moudrost", "Zvědavost"]
+  },
+  {
+    "text": "Chraňte přírodu.",
+    "author": "Neznámý",
+    "categories": ["Život", "Odpovědnost"]
+  },
+  {
+    "text": "Sledujte své sny.",
+    "author": "Neznámý",
+    "categories": ["Život", "Motivace"]
+  },
+  {
+    "text": "Žijte naplno.",
+    "author": "Neznámý",
+    "categories": ["Život", "Štěstí"]
+  },
+  {
+    "text": "Buďte vděční za každý den.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Vděčnost"]
+  },
+  {
+    "text": "Hledejte krásu v každém dni.",
+    "author": "Neznámý",
+    "categories": ["Perspektiva", "Život"]
+  },
+  {
+    "text": "Dělejte svět lepším místem.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Společenství"]
+  },
+  {
+    "text": "Učte se z minulosti, plánujte budoucnost, žijte přítomností.",
+    "author": "Neznámý",
+    "categories": ["Život", "Čas"]
+  },
+  {
+    "text": "Buďte silní i v těžkých časech.",
+    "author": "Neznámý",
+    "categories": ["Odolnost", "Síla"]
+  },
+  {
+    "text": "Nikdy nepřestávejte věřit.",
+    "author": "Neznámý",
+    "categories": ["Víra", "Naděje"]
+  },
+  {
+    "text": "Život je dobrodružství, ne test.",
+    "author": "Neznámý",
+    "categories": ["Život", "Perspektiva"]
+  },
+  {
+    "text": "Buďte světlem pro ostatní.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Inspirace"]
+  },
+  {
+    "text": "Každý den je nová příležitost.",
+    "author": "Neznámý",
+    "categories": ["Život", "Příležitost"]
+  },
+  {
+    "text": "Buďte hrdí na to, kým jste.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Sebevědomí"]
+  },
+  {
+    "text": "Nikdy se nevzdávejte svých snů.",
+    "author": "Neznámý",
+    "categories": ["Život", "Odhodlání"]
+  },
+  {
+    "text": "Život je krásný.",
+    "author": "Neznámý",
+    "categories": ["Život", "Perspektiva"]
+  },
+  {
+    "text": "Buďte vděční za všechno.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Vděčnost"]
+  },
+  {
+    "text": "Hledejte radost v maličkostech.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Perspektiva"]
+  },
+  {
+    "text": "Dělejte to, co vás baví.",
+    "author": "Neznámý",
+    "categories": ["Život", "Vášeň"]
+  },
+  {
+    "text": "Buďte pozitivní i v negativních situacích.",
+    "author": "Neznámý",
+    "categories": ["Perspektiva", "Odolnost"]
+  },
+  {
+    "text": "Nikdy nepřestávejte růst.",
+    "author": "Neznámý",
+    "categories": ["Život", "Růst"]
+  },
+  {
+    "text": "Život je o neustálém učení.",
+    "author": "Neznámý",
+    "categories": ["Život", "Moudrost"]
+  },
+  {
+    "text": "Buďte přítomní v každém okamžiku.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Přítomnost"]
+  },
+  {
+    "text": "Hledejte klid uvnitř sebe.",
+    "author": "Neznámý",
+    "categories": ["Vnitřní klid", "Meditace"]
+  },
+  {
+    "text": "Důležitější než mít pravdu je být laskavý.",
+    "author": "Wayne Dyer",
+    "categories": ["Ctnost", "Hodnoty"]
+  },
+  {
+    "text": "Naše největší sláva nespočívá v tom, že nikdy neselžeme, ale v tom, že se pokaždé zvedneme.",
+    "author": "Ralph Waldo Emerson",
+    "categories": ["Odolnost", "Úspěch"]
+  },
+  {
+    "text": "Jediný způsob, jak se vypořádat s nesvobodným světem, je stát se tak absolutně svobodným, že vaše existence je aktem vzpoury.",
+    "author": "Albert Camus",
+    "categories": ["Život", "Svoboda"]
+  },
+  {
+    "text": "Smyslem života je dát mu smysl.",
+    "author": "Viktor Frankl",
+    "categories": ["Život", "Smysl"]
+  },
+  {
+    "text": "Čím více zapomínáte na sebe, tím více si pamatujete na ostatní.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Vztahy"]
+  },
+  {
+    "text": "Nejde o délku života, ale o hloubku života.",
+    "author": "Ralph Waldo Emerson",
+    "categories": ["Život", "Kvalita"]
+  },
+  {
+    "text": "Žijte tak, abyste se nemuseli ohlížet s lítostí.",
+    "author": "Neznámý",
+    "categories": ["Život", "Akce"]
+  },
+  {
+    "text": "Buďte tvůrci svého vlastního štěstí.",
+    "author": "Neznámý",
+    "categories": ["Štěstí", "Akce"]
+  },
+  {
+    "text": "Nechte své činy mluvit hlasitěji než vaše slova.",
+    "author": "Neznámý",
+    "categories": ["Akce", "Autenticita"]
+  },
+  {
+    "text": "Buďte vděční za to, co máte, a pracujte na tom, co chcete.",
+    "author": "Neznámý",
+    "categories": ["Vděčnost", "Akce"]
+  },
+  {
+    "text": "Hledejte příležitosti v každé překážce.",
+    "author": "Neznámý",
+    "categories": ["Odolnost", "Perspektiva"]
+  },
+  {
+    "text": "Buďte silní, když je těžké být silným.",
+    "author": "Neznámý",
+    "categories": ["Odolnost", "Síla"]
+  },
+  {
+    "text": "Nikdy nepřestávejte snít.",
+    "author": "Neznámý",
+    "categories": ["Život", "Naděje"]
+  },
+  {
+    "text": "Život je neustálý proces stávání se.",
+    "author": "Neznámý",
+    "categories": ["Život", "Změna"]
+  },
+  {
+    "text": "Buďte světlem ve tmě.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Naděje"]
+  },
+  {
+    "text": "Každý konec je nový začátek.",
+    "author": "Neznámý",
+    "categories": ["Změna", "Život"]
+  },
+  {
+    "text": "Buďte laskaví ke všem, s kým se setkáte, každý bojuje svůj vlastní boj.",
+    "author": "Neznámý",
+    "categories": ["Ctnost", "Soucit"]
+  },
+  {
+    "text": "Nikdy nepromarněte dobrou krizi.",
+    "author": "Winston Churchill",
+    "categories": ["Odolnost", "Příležitost"]
+  },
+  {
+    "text": "Štěstí není něco, co zažíváte, je to něco, co si pamatujete.",
+    "author": "Oscar Levant",
+    "categories": ["Štěstí", "Vzpomínky"]
+  },
+  {
+    "text": "Jediná osoba, kterou musíte překonat, je ta, kterou jste byli včera.",
+    "author": "Neznámý",
+    "categories": ["Změna", "Růst"]
+  }
+]
