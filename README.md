@@ -15,6 +15,9 @@ CLI that inputs a Czech name, and returns name day of that name.
     - If the name is not found, it will prompt you to check the entered name.
     - Use `svatky help` to display usage instructions.
 
+### 3. Web Scraper
+A script that scrapes product prices from a test e-commerce site and calculates total and average prices.
+
 ### 5. Globe Visitor Tracker
 A web application that tracks and visualizes visitor locations on a 3D globe.
 
