@@ -5,6 +5,15 @@ Starts a server using express, and server .html containing "Hello, World!".
 
 ### 2. Name days CLI
 CLI that inputs a Czech name, and returns name day of that name.
+- **Usage:**
+    - Run the CLI tool by typing `svatky <name>` in your terminal.
+    - Example:
+        ```bash
+        svatky Vojtěch
+        ```
+    - If the name is found, the tool will display the name day in the format `name má svátek DD.MM`.
+    - If the name is not found, it will prompt you to check the entered name.
+    - Use `svatky help` to display usage instructions.
 
 ### 5. Globe Visitor Tracker
 A web application that tracks and visualizes visitor locations on a 3D globe.
