@@ -1,7 +1,9 @@
+//import quotes from JSON file to db
+
 require('dotenv').config();
 const mongoose = require('mongoose');
 const fs = require('fs');
-const Quote = require('./Quote');
+const Quote = require('../models/Quote');
 
 mongoose.connect(process.env.MONGO_URI)
   .then(() => {

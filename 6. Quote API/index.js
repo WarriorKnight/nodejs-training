@@ -13,15 +13,6 @@ mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log('MongoDB connected'))
   .catch(err => console.error('Connection error:', err));
 
-// mongoose.connection.once('open', async () => {
-//     try {
-//         await mongoose.connection.db.dropDatabase();
-//         console.log('🗑️ Database cleared');
-//     } catch (err) {
-//         console.error('❌ Error clearing database:', err);
-//     }
-// });
-
 const quotesRouter = require('./routes/quotes');
 app.use('/api/quotes', quotesRouter);
 
