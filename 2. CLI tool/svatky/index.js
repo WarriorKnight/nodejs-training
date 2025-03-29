@@ -21,11 +21,11 @@ const FgRed = "\x1b[31m";
 
 	if (input.includes(`help`)) {
 		console.log(
-	"Example Usage:\n",
-	"svatky <name>\n",
-	"svatky Vojtěch");
-		return;
-	}
+		"Example Usage:\n",
+		"svatky <name>\n",
+		"svatky Vojtěch");
+			return;
+		}
 
 
 	const name = input[0];
