@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Last Visit Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div>
+    <!-- <h1>👋 Welcome!</h1> -->
+    <p id="last-visit">Loading last visit info...</p>
+    <p id="visit-count">Loading visitor count...</p>
+    <p id="record">Loading longest time with continuous connections...</p>
+  </div>
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
+    let intervalId = null;
+    socket.on('lastVisit', (timestamp) => {
+      const p = document.getElementById('last-visit');
+      if (!timestamp) {
+        p.textContent = "You're the first visitor!";
+        return;
+      }
+
+      if (intervalId) {
+      clearInterval(intervalId);
+      }
+
+      intervalId = setInterval(() => {
+        const last = new Date(timestamp);
+        const now = new Date();
+        const diff = Math.round((now - last) / 1000);
+        const minutes = Math.floor(diff / 60);
+        const seconds = String(diff % 60).padStart(2, '0');
+
+        p.innerHTML = `Since last connection: <span class="statistics">${minutes}:${seconds}</span>`;
+      }, 1000);
+    });
+
+    socket.on('visitCount', (count) => {
+      const visitCountElement = document.getElementById('visit-count');
+      visitCountElement.innerHTML = `Visitors: <span class="statistics">${count}</span>`;
+    });
+
+    socket.on('record', (record) => {
+      const recordElement = document.getElementById('record');
+      const seconds = Math.round(record / 1000);
+      let displayTime;
+
+      if (seconds >= 86400) {
+      const days = Math.floor(seconds / 86400);
+      displayTime = `${days} day${days > 1 ? 's' : ''}`;
+      } else if (seconds >= 3600) {
+      const hours = Math.floor(seconds / 3600);
+      displayTime = `${hours} hour${hours > 1 ? 's' : ''}`;
+      } else if (seconds >= 60) {
+      const minutes = Math.floor(seconds / 60);
+      displayTime = `${minutes} minute${minutes > 1 ? 's' : ''}`;
+      } else {
+      displayTime = `${seconds} second${seconds > 1 ? 's' : ''}`;
+      }
+
+      recordElement.innerHTML = `Longest time without new connection: <span class="statistics">${displayTime}</span>`;
+    });
+  </script>
+</body>
+</html>
