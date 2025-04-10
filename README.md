@@ -31,7 +31,6 @@ A web application that tracks and visualizes visitor locations on a 3D globe.
   - Dockerized using **Docker**.
   - Frontend built with **React** using `react-globe.gl` to display the locations.
   - **Note:** This project was primarily an experiment to try out various skills learned from previous projects—using Docker, interacting with the filesystem, and making API calls. As such, aspects like using a JSON file as a database or handling multiple entries per IP were not the main focus.
-  - **Live Demo:** [Spin the globe](https://nodejs-training-production-6599.up.railway.app/)
 
 ### 6. Quote API
 
@@ -42,7 +41,6 @@ An API for managing quotes, built with **Express.js** and **MongoDB**. The API a
   - Built with **Mongoose** for MongoDB integration.
   - Includes CORS support for cross-origin requests.
   - Dockerized for easy deployment.
-  - **Live Demo:** [Retrieve a random quote](https://quotes-api-production-1489.up.railway.app/api/quotes/random/)
 
 ### 7. Last Seen Tracker
 
