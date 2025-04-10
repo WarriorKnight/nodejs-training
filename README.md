@@ -22,6 +22,8 @@ CLI that inputs a Czech name, and returns name day of that name.
 
 A script that scrapes product prices from a test e-commerce site and calculates total and average prices.
 
+### 4. Missing for now
+
 ### 5. Globe Visitor Tracker
 
 A web application that tracks and visualizes visitor locations on a 3D globe.
